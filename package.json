@@ -34,7 +34,7 @@
     "prepare": "npm run build"
   },
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.6",
     "axios": "^0.21.1",
     "commander": "^3.0.1",
     "conf": "^5.0.0",
